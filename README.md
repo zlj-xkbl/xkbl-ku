@@ -1,3 +1,0 @@
-# xkbl-ku
-
-hello world
